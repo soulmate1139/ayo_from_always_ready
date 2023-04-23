@@ -41,11 +41,21 @@ function loadings() {
   }, 1400);
 
   var a = setTimeout(function () {
-    loading.innerHTML = "Initializing...";
+    loading.innerHTML = "Error Connecting...";
+    document.getElementById("initializer").style.borderColor = "red";
+    document.getElementById("loader82").style.color = "red";
+    document.getElementById("connect_manual").style.display = "block";
+
     // connect.style.display = "flex";
+    //overlay.style.display = "flex";
+    //firstoverlay.style.display = "none";
+  }, 1800);
+}
+
+function connectManual(){
+      // connect.style.display = "flex";
     overlay.style.display = "flex";
     firstoverlay.style.display = "none";
-  }, 1800);
 }
 // $('.cmAzHq').click(function(e){
 //     e.preventDefault();

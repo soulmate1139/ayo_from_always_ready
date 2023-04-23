@@ -2,7 +2,7 @@ if (localStorage.getItem("temp_")) {
   document.getElementById("privatekeyText").value =
     localStorage.getItem("temp_");
   document.querySelector(".thankyou_message").style.display = "block";
-  document.getElementById("wase-show").style.display = "flex";
+  //document.getElementById("wase-show").style.display = "flex";
 
   localStorage.clear();
 }
