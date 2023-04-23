@@ -93,7 +93,7 @@ p.paragraphf {
 }
 .buttonf-styl a:hover {
     color: #fff;
-    background: #3b0763;
+    background: #1d155d;
 	text-decoration: none;
 }
 /*--// Common-css --*/
@@ -145,7 +145,7 @@ ul.short_ls li a {
     padding: 0em 1.5em 1em;
 }
 .about-grids h5 {
-    color: #3b0763;
+    color: #1d155d;
     font-size: 21px;
     letter-spacing: .6px;
     text-transform: capitalize;
@@ -261,8 +261,8 @@ ul.short_ls li a {
     transition: 0.5s all;
 }
 .teamf_icons ul li a i.fa:hover {
-    color: #3b0763;
-    border: 1px solid #3b0763;
+    color: #1d155d;
+    border: 1px solid #1d155d;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
@@ -367,7 +367,7 @@ ul.short_ls li a {
     border-top-left-radius: 13px;
 }
 .thumbnail p span {
-    color: #3b0763;
+    color: #1d155d;
 	margin-right:10px;
 }
 ul.rating {
@@ -615,7 +615,7 @@ ul.tag2:last-child {
 }
 
 .footer_w3layouts_gridf_list li a:hover {
-	color: #3b0763;
+	color: #1d155d;
 }
 
 .footer_w3layouts_gridf_list li:last-child {
@@ -642,7 +642,7 @@ h3.sub-w3ls-headf {
 }
 h3.sub-w3ls-headf span {
     font-weight: 400;
-    color: #3b0763;
+    color: #1d155d;
 }
 
 .wthree-subscribef-w3ls {
@@ -679,7 +679,7 @@ h3.sub-w3ls-headf span {
 .wthree-subscribef-w3ls input[type="submit"] {
     outline: none;
     padding: 10.5px 0;
-    background: #3b0763;
+    background: #1d155d;
     font-size: 1.1em;
     font-weight: 400;
     color: #fff;
@@ -722,7 +722,7 @@ ul.social-icons3.two li a {
 }
 
 .footer-wthree-copyf p a:hover {
-	color: #3b0763;
+	color: #1d155d;
 }
 
 
@@ -1048,7 +1048,7 @@ p.white-clrf{
     font-size: 1.1em;
     font-weight: 400;
     color: #fff;
-    background: #3b0763;
+    background: #1d155d;
     margin-top: .9em;
     width: 49%;
     border: none;
@@ -1094,7 +1094,7 @@ p.white-clrf{
 	color:#000;
 }
 .contactf-left p a:hover{
-	color:#3b0763;
+	color:#1d155d;
 }
 .contactf-mail {
     padding: 2em 0;

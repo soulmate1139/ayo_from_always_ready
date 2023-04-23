@@ -577,7 +577,7 @@ ul.stars li a:hover {
     border: none;
     padding: 10px;
     margin-top: 0;
-    background: #3b0763;
+    background: #1d155d;
     color: #fff;
     font-size: 16px;
     letter-spacing: 2px;
@@ -845,7 +845,7 @@ button.edu-cart {
     padding: 7px 28px;
 }
 button.edu-cart:hover {
-	    background: #3b0763;
+	    background: #1d155d;
 }
 ul.footer_list_icons.single_in li {
     color: #2f2f2f;
@@ -941,7 +941,7 @@ color: #000;
     text-transform: uppercase;
 }
 .description input[type="submit"]:hover{
-    background: #3b0763;
+    background: #1d155d;
 }
 .occasion-cart a{
     padding: 8px 20px;

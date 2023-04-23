@@ -125,10 +125,10 @@ h5.resp-tab-title:last-child {
     z-index: 1;
     margin-right: 0;
     color: #fff;
-	background: #3b0763;
+	background: #1d155d;
 }
 .resp-vtabs .resp-tabs-list li:hover{
-	background: #3b0763;
+	background: #1d155d;
 	color:#fff;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -157,11 +157,11 @@ h5.resp-tab-active span.resp-arrow {
 /*-----------Accordion styles-----------*/
 
 h5.resp-tab-active { 
-	background: #3b0763 !important;
+	background: #1d155d !important;
     color: #fff!important;
 }
 h5.resp-accordion:hover{
-	background: #3b0763;
+	background: #1d155d;
     color: #fff;
 }
 
